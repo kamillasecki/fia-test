@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" data-semver="3.3.5" data-require="bootstrap@*" />
+    <link href="style.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="js/functions.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+</head>
+<body>
+    <header class="container-fluid">
+        <div class="jumbotron">
+            <H1>FIA test</H1>
+        </div>
+    </header>
+    <div class="container-fluid">
+        <div class="row">
+            <aside class="col-sm-2">
+            </aside>
+            <section class="col-sm-7">
+                <div id="main-top"></div>
+                <div id="main-mid"></div>
+                <div id="main-bot">
+                    <button type="button" id="qbtn" class="btn btn-default btn-sm btn-block" data-toggle="modal">Next</button>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <footer class="container-fluid">
+        <div>
+            Score so far: <span id="srate"></span> Correct: <span id="acorrect"></span> Incorrect: <span id="awrong"></span>
+        </div>
+        <div>
+            Average time spent on each question: <span id="time"></span> seconds
+        </div>
+    </footer>
+</body>
+</html>

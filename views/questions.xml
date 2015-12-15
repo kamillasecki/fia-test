@@ -1,0 +1,1112 @@
+<questions>
+    <question>
+        <text>The difference between originators and aggregators is</text>
+        <answer status="wrong">Originators provide data on issues in the primary markets and aggregators provide data on the entire (or aggregate) market</answer>
+        <answer status="wrong">Originator data is generally more detailed than aggregator data</answer>
+        <answer status="right">Originators collect data or create it themselves whereas aggregators typically combine and integrate other 3rd party data in a meaningful manner </answer>
+    </question>
+    <question>
+        <text>What best describes the difference between "Level 1" and "Level 2" data from an exchange?</text>
+        <answer status="wrong">Level 1 data is the highest quality data from an exchange whereas Level 2 data has not been as closely checked and is therefore less reliable</answer>
+        <answer status="wrong">Level 1 data covers all data that comes from the exchange's domestic (local) market whereas Level 2 data includes quotes or orders relating to international markets</answer>
+        <answer status="right">Level 1 data displays only the best bid and offer whereas Level 2 provides data on greater depth e.g. more orders or quotes in that market </answer>
+        <answer status="wrong">Level 2 data conforms to all local and international regulations whereas Level 1 is delivered more quickly but cannot be guaranteed to comply with all necessary regulations</answer>
+    </question>
+    <question>
+        <text>Faster access to exchange quote data has spawned an industry around co-location services. Co-location/proximity hosting is:</text>
+        <answer status="wrong">The practice of contributing data locally to market participants (e.g. contributed local or co-lo)</answer>
+        <answer status="right">Reducing latency (delay) to speed of light by physically connecting to the exchange order matching engine at the same physical site (e.g. co-location) </answer>
+        <answer status="wrong">Reducing latency (delay) by approximating the direction the markets can be expected to take (e.g. proximity hosting)</answer>
+    </question>
+    <question>
+        <text>Which of the below options are examples of what exchange generated data would include</text>
+        <answer status="wrong">Real time quote data, investment advice on exchange listed issues</answer>
+        <answer status="right">Bid, offer, trade and volume, Level 1 and Level 2 data, real time quote data </answer>
+        <answer status="wrong">Company balance sheet and income statement data</answer>
+        <answer status="wrong">Level 1 and Level 2 data, real time quote data, end of day bond evaluations</answer>
+    </question>
+    <question>
+        <text>The term "contributed data" applies to</text>
+        <answer status="wrong">Any data that has one or more contributing sources, e.g. it has been validated</answer>
+        <answer status="right">Data "contributed" by broker dealers to solicit the sale of their inventory and offerings to the buy side </answer>
+        <answer status="wrong">Data which is made available "free of charge" (e.g. contributed) as opposed to un-contributed data, which is typically fee liable</answer>
+    </question>
+    <question>
+        <text>Vendors typically seek to add value to market data by</text>
+        <answer status="wrong">Normalising data omissions by providing "best guess" data values where content is missing</answer>
+        <answer status="wrong">Warrenting the fitness for purpose and merchantability of the data with a money back guarantee</answer>
+        <answer status="right">Managing standards for completeness, accuracy, timeliness and reliability of the data service </answer>
+        <answer status="wrong">Routine and ongoing comparisons between its data and its competitors' to correct errors in a timely fashion</answer>
+    </question>
+    <question>
+        <text>Providers of desktop terminals include</text>
+        <answer status="wrong">Providers of desktop terminals include</answer>
+        <answer status="wrong">Moody's Analytics and Standard &#38; Poor's</answer>
+        <answer status="right">Thomson Reuters and Bloomberg </answer>
+    </question>
+    <question>
+        <text>Which vendors are commonly associated with end of day fixed income evaluations</text>
+        <answer status="right">Interactive Data, Markit, Thomson Reuters</answer>
+        <answer status="wrong">Russell, The Roberts Group, FactSet</answer>
+        <answer status="wrong">NASDAQ, Morningstar, Dow Jones</answer>
+    </question>
+    <question>
+        <text>Which vendors are commonly associated with news services</text>
+        <answer status="wrong">Morningstar, FactSet, MSCI/Barra</answer>
+        <answer status="right">Dow Jones, Reuters, Bloomberg</answer>
+        <answer status="wrong">Interactive Data, SIX Financial, Markit</answer>
+    </question>
+    <question>
+        <text>Which vendors are commonly associated with index data</text>
+        <answer status="wrong">SIX Financial, HSI Global Insight, Haver Analytics</answer>
+        <answer status="wrong">FactSet, Interactive Data, IRESS</answer>
+        <answer status="right">MSCI, FTSE, Russell, Dow Jones, S&#38;P, Wilshire</answer>
+    </question>
+    <question>
+        <text>In the financial markets, which two of the following types of business is Dow Jones best known for?</text>
+        <answer status="wrong">Credit ratings and newswires</answer>
+        <answer status="right">Newswires and stock market indices</answer>
+        <answer status="wrong">Inter Dealer Broking and newswires</answer>
+        <answer status="wrong">Wealth management and stock market indices</answer>
+    </question>
+    <question>
+        <text>Which company now owns "Capital IQ"?</text>
+        <answer status="wrong">Interactive Data Corporation</answer>
+        <answer status="right">Standard &#38; Poor's</answer>
+        <answer status="wrong">FactSet</answer>
+        <answer status="wrong">Markit</answer>
+    </question>
+    <question>
+        <text>Which of the following are known as stock exchanges</text>
+        <answer status="wrong">Thomson Reuters, Markit, Standard &#38; Poor's</answer>
+        <answer status="wrong">FactSet, Interactive Data, IRESS</answer>
+        <answer status="right">NYSE/Euronext, NASDAQ, Deutsche Borse</answer>
+    </question>
+    <question>
+        <text>Exchanges seek to capture as much trading volume as possible by</text>
+        <answer status="wrong">Lowering costs and providing rebates to traders</answer>
+        <answer status="wrong">Assuring that issues listed on the exchange are not quoted on competing exchanges</answer>
+        <answer status="right">Having the largest pool of liquidity to facilitate efficient trading in a given security </answer>
+    </question>
+    <question>
+        <text>Trends that have evolved from the concept of low latency include</text>
+        <answer status="wrong">The increased reliance on alternative markets for "trading away" from an exchange</answer>
+        <answer status="right">Direct Market Access, Co-Location, and Algo Trading </answer>
+        <answer status="wrong">A decrease in the interest and number of participants in high speed trading</answer>
+    </question>
+    <question>
+        <text>The concept of fee liable exchange data is typically</text>
+        <answer status="wrong">Only for stocks where they are listed as the primary exchange</answer>
+        <answer status="wrong">Submitted by exchange customers and therefore free if any exchanges charge for real time quote data</answer>
+        <answer status="right">Fee liable when the data is provided in real time, up to a set delay such as 15 minutes </answer>
+    </question>
+    <question>
+        <text>What best describes the concept of "co-location"</text>
+        <answer status="right">Where a trading or investment firm physically installs some or all of its trading applications at the site of the electronic trading venue (e.g. an exchange) </answer>
+        <answer status="wrong">Where an exchange installs part of its data infrastructure at one of its client firms e.g. an investment bank</answer>
+        <answer status="wrong">Where two or more sell side firms agree to fund a joint location for the installation of a common algorithmic trading application</answer>
+        <answer status="wrong">Where a sell side firm allows a small number of its buy side clients to visit its offices on an ongoing basis for the purposes of trading analysis</answer>
+    </question>
+    <question>
+        <text>Which of the following are examples of exchange data</text>
+        <answer status="wrong">Charting data, company sales, bond credit ratings</answer>
+        <answer status="right">NBBO, level 1, bid and ask </answer>
+        <answer status="wrong">KYC data, shares outstanding, corporate officers &#38; directors</answer>
+    </question>
+    <question>
+        <text>Which of the following are examples of fundamental data providers</text>
+        <answer status="right">Thomson Reuters, Standard &#38; Poor's, FactSet </answer>
+        <answer status="wrong">Interactive Data, Moody's Analytics, FISD</answer>
+        <answer status="wrong">NASDAQ/OMX, BT Global, Securities &#38; Exchange Commission</answer>
+    </question>
+    <question>
+        <text>The use of Volume Weighted Average Price (VWAP) is a useful measure to indicate</text>
+        <answer status="wrong">The associated with "the music of the ticker tape" in the 1920's, later became known as DooWop</answer>
+        <answer status="right">If best execution was obtained in a trade by its ability to indicate if adverse market impact occurred </answer>
+        <answer status="wrong">The price of a trade expected when trading on volume instead of the bid &#38; ask</answer>
+    </question>
+    <question>
+        <text>Which would be considered to be "fundamental data"?</text>
+        <answer status="wrong">Real time price data (e.g. bid and offer on shares)</answer>
+        <answer status="wrong">News, commentary and economic statistics such as unemployment and inflation</answer>
+        <answer status="right">Annual reports and account from public companies e.g. P&#38;L, balance sheets </answer>
+        <answer status="wrong">Charts and graphs using time series data - i.e. technical analysis</answer>
+    </question>
+    <question>
+        <text>Share ownership data on publicly listed companies is not an example of fundamental data</text>
+        <answer status="wrong">True</answer>
+        <answer status="right">False </answer>
+    </question>
+    <question>
+        <text>Historical data is typically used for what types of research</text>
+        <answer status="wrong">Fundamental analysis and earnings surprise data</answer>
+        <answer status="right">Securities research, technical analysis and back testing strategies </answer>
+        <answer status="wrong">KYC data, shares outstanding, corporate officers &#38; directors</answer>
+    </question>
+    <question>
+        <text>One of the key challenges with managing historical data include</text>
+        <answer status="wrong">Sourcing historical data due to the propensity for large volumes of historical data to be purged from systems</answer>
+        <answer status="wrong">It is difficult to chart time series when various instruments have widely divergent price levels</answer>
+        <answer status="right">Predecessor and successor mapping to identify changes over time </answer>
+        <answer status="wrong">Performing statistical analysis on data that includes weekends and holidays</answer>
+    </question>
+    <question>
+        <text>There are no challenges when performing statistical analysis on data that includes weekends and holidays</text>
+        <answer status="wrong">True</answer>
+        <answer status="right">False </answer>
+    </question>
+    <question>
+        <text>The difference between a closing price and a valuation is</text>
+        <answer status="wrong">A closing price changes hourly and a valuation is a summary price generally taken at 4:00 pm in a local market</answer>
+        <answer status="right">A closing price is based on a last sale at a set time and a valuation is a modeled price and more of a theoretical closing price </answer>
+        <answer status="wrong">Valuations are considered a more accurate representation of a security's value whereas a closing price is simply a last trade</answer>
+    </question>
+    <question>
+        <text>Vendor(s) that provide valuation services include</text>
+        <answer status="wrong">The Bond Pricing Association</answer>
+        <answer status="right">Thomson Reuters and Interactive Data </answer>
+        <answer status="wrong">Value-Line</answer>
+        <answer status="wrong">FINRA and Thomson Reuters</answer>
+    </question>
+    <question>
+        <text>Credit ratings are useful in determining risk and valuation of what type of asset class</text>
+        <answer status="wrong">Equities</answer>
+        <answer status="right">Fixed income securities </answer>
+        <answer status="wrong">Commodities and energy futures</answer>
+    </question>
+    <question>
+        <text>Indices are considered useful representations of a market or sector as a</text>
+        <answer status="wrong">Standard for the most desirable securities to invest in within any particular market</answer>
+        <answer status="right">Benchmark for the overall performance and returns of a particular market, sector, industry or other market measure </answer>
+        <answer status="wrong">Listing of the universe of investable instruments in a given industry, sector or market</answer>
+    </question>
+    <question>
+        <text>An NRSRO is</text>
+        <answer status="wrong">A Newly Registered Senior Rights Offering for the IPO (Initial Public Offering) market</answer>
+        <answer status="wrong">A Non-Regulated Securities Restricted Offering or a bond that can only be sold to institutional investors</answer>
+        <answer status="right">A Nationally Recognised Statistical Reporting Organisation as the SEC's designation for a credit reporting agency </answer>
+    </question>
+    <question>
+        <text>The name of a company's security that is a member of an index is commonly referred to as a(n)</text>
+        <answer status="wrong">Optimised member</answer>
+        <answer status="right">Index constituent </answer>
+        <answer status="wrong">Index or market leader</answer>
+    </question>
+    <question>
+        <text>An index said to be market capitalisation weighted is one whereby</text>
+        <answer status="right">The constituents are weighted based on the company's total value or capitalization (share price x shares outstanding) </answer>
+        <answer status="wrong">Each security has a maximum price allowed or a "market cap" price</answer>
+        <answer status="wrong">The market capitalisation is calculated using an equal number of shares (e.g. each constituent is capped at 100 shares)</answer>
+    </question>
+    <question>
+        <text>The S&#38;P500 is a __________weighted index / and the Dow Jones Industrials is a _____________weighted index</text>
+        <answer status="wrong">500 stock / 30 stock</answer>
+        <answer status="right">Market capitalisation weighted / Price weighted </answer>
+        <answer status="wrong">Equal share weighted / Equal price weighted</answer>
+    </question>
+    <question>
+        <text>Which of the following best describes news and commentary</text>
+        <answer status="wrong">Of interest but not an important component of market data</answer>
+        <answer status="right">News and commentary may be delivered in a streaming broadcast, a pushed update or a snapshot - request/retrieval </answer>
+        <answer status="wrong">While important, markets are rarely moved based on news and commentary alone</answer>
+        <answer status="wrong">Developing news is considered opinion until it is confirmed by commentary</answer>
+    </question>
+    <question>
+        <text>Elementised news is becoming an increasingly important data set used in algo trading</text>
+        <answer status="right">True </answer>
+        <answer status="wrong">False</answer>
+    </question>
+    <question>
+        <text>The term "reference data" is used broadly to describe</text>
+        <answer status="wrong">Derivative instruments - because they "refer" to another, underlying security</answer>
+        <answer status="wrong">A brokerage firm's recommendation on a security, whereby the broker acts as a "reference" on the value of the security</answer>
+        <answer status="right">The descriptive data about a security such as its coupon, maturity and whether or not callable if a bond </answer>
+    </question>
+    <question>
+        <text>One characteristic of reference data is that it is</text>
+        <answer status="right">Relatively "static" data in that most data elements rarely change over the life of an instrument </answer>
+        <answer status="wrong">Generally considered a good investment opportunity should a security obtain an "excellent" or "very good" reference</answer>
+        <answer status="wrong">Data that is considered "a moving target" to manage in that key data terms change on virtually a daily basis</answer>
+    </question>
+    <question>
+        <text>In what context would KYC be most relevant?</text>
+        <answer status="wrong">Instrument reference data</answer>
+        <answer status="wrong">Company earnings estimates</answer>
+        <answer status="wrong">Economic fundamentals</answer>
+        <answer status="right">Counterparty reference data </answer>
+    </question>
+    <question>
+        <text>End of Day Pricing is</text>
+        <answer status="right">Generally used for accounting functions </answer>
+        <answer status="wrong">The price that sets the opening price the following trading day</answer>
+        <answer status="wrong">Rarely used in today's markets due to the prevalence of real time data</answer>
+    </question>
+    <question>
+        <text>Corporate actions data typically include</text>
+        <answer status="wrong">A material news event that a corporation is changing a major policy (e.g. taking a "corporate action")</answer>
+        <answer status="right">A dividend payment, a bond interest coupon payment or a stock split </answer>
+        <answer status="wrong">The process when a stock is issued or a bond is matured and the corporate treasury and balance sheet are updated</answer>
+    </question>
+    <question>
+        <text>Regulatory filings by publicly traded companies will typically include</text>
+        <answer status="wrong">Any significant new product launch, since a public company must disclose its new products to regulators</answer>
+        <answer status="wrong">Any promotion or new hire must be reported for the purposes of Federal background checks if publicly traded</answer>
+        <answer status="right">An annual report, in the US to the SEC with the company's 10k report - with its balance sheet &#38; income statement </answer>
+    </question>
+    <question>
+        <text>The term LEI is defined as</text>
+        <answer status="wrong">The Limited Equity Index, a restriction that applies to index funds that may otherwise become overly reliant on a single index</answer>
+        <answer status="right">The Legal Entity Identifier, an emerging identifier standard with broad global support </answer>
+        <answer status="wrong">The Long Equity Issue, where an investor buys a stock (as opposed to the SEI, or short equity issue whereby the investor shorts a stock). Regulators are keen to assure all investors begin to use the LEI and no long short stocks in the future</answer>
+    </question>
+    <question>
+        <text>For what type of financial instrument would you expect investors to be interested in "Constituents"?</text>
+        <answer status="wrong">Spot FX</answer>
+        <answer status="wrong">Soft agricultural commodities</answer>
+        <answer status="right">An index </answer>
+        <answer status="wrong">Equity shares</answer>
+    </question>
+    <question>
+        <text>Standards are seen as important in the market data discipline for the purposes of</text>
+        <answer status="right">Uniformity in instruments, definitions and to support efficiency in global markets </answer>
+        <answer status="wrong">Assuring that all like instruments are trading at similar prices</answer>
+        <answer status="wrong">To help reduce the overall number of global securities</answer>
+    </question>
+    <question>
+        <text>The FIX protocol is</text>
+        <answer status="wrong">The term given to ensure markets are transparent (e.g. that the "FIX" is not in)</answer>
+        <answer status="wrong">A standard that facilitates the End of Day pricing function (e.g. to FIX a closing price)</answer>
+        <answer status="right">A standard that supports the trading function between counterparties </answer>
+    </question>
+    <question>
+        <text>SWIFT or the Society of Worldwide Interbank Telecommunications is widely known for</text>
+        <answer status="wrong">Its dominance as primary telephone service provider in the European Union</answer>
+        <answer status="right">Setting the standards and the management of interbank money transfers globally </answer>
+        <answer status="wrong">Managing the bandwidth of telecommunications to assure data moves as fast as possible, or "swift" through the system</answer>
+    </question>
+    <question>
+        <text>Examples of ISO standards in market data would be</text>
+        <answer status="wrong">The definition of a market closing price</answer>
+        <answer status="wrong">The number of days after yearend that a corporation must report its financial statements</answer>
+        <answer status="right">ISO Standards for FIX, Corporate Actions and the LEI </answer>
+    </question>
+    <question>
+        <text>Data is generally delivered to users in a form and timeframe that supports use cases such as</text>
+        <answer status="wrong">Real time data collecting into data files and delivered to end users at intervals throughout the trading day</answer>
+        <answer status="right">End of Day data in a batch file delivered as a single data file via FTP for end of day accounting purposes </answer>
+        <answer status="wrong">Corporate actions data delivered in a streaming data file with low latency updating for dividend announcements</answer>
+        <answer status="wrong">News delivered in a snapshot "request retrieval" mode only for end user news updating</answer>
+    </question>
+    <question>
+        <text>Middleware services that include shared applications may</text>
+        <answer status="right">Include pricing engines and margin monitoring applications to service a trading floor </answer>
+        <answer status="wrong">Generally not be used by the so called front office or back office functions of a brokerage firm</answer>
+        <answer status="wrong">Increase the costs to a firm by servicing many users from a single application, but are generally seen as worth it</answer>
+    </question>
+    <question>
+        <text>A portfolio manager may use a market monitor to</text>
+        <answer status="wrong">Determine which markets they should be monitoring</answer>
+        <answer status="right">View his or her portfolio, watch list of securities and include proprietary data integrated with real time data inputs </answer>
+        <answer status="wrong">Write research reports and market analysis and publish them for clients to monitor</answer>
+    </question>
+    <question>
+        <text>The difference between a batch download and a real time broadcast feed is, in part, that</text>
+        <answer status="wrong">A batch download is permitted for redistribution whereas a real time broadcast can only be used by a single recipient</answer>
+        <answer status="wrong">A batch download requires a manual process to receive (create a batch) whereas a broadcast feed comes over radio signals</answer>
+        <answer status="right">A batch download is typically a static file of data whereas a broadcast feed is a continuous stream of data </answer>
+    </question>
+    <question>
+        <text>A market data manager supporting a back office operations unit would typically be engaged with what data types</text>
+        <answer status="right">End of Day pricing files, corporate actions data and reference data </answer>
+        <answer status="wrong">Streaming real time quotes and news</answer>
+        <answer status="wrong">Investment research to support trade settlement and clearing operations</answer>
+    </question>
+    <question>
+        <text>A user of charting data and price history is typically engaged in what type of research function</text>
+        <answer status="wrong">Quantitative analysis</answer>
+        <answer status="right">Technical analysis </answer>
+        <answer status="wrong">Fundamental analysis</answer>
+    </question>
+    <question>
+        <text>The types of market data of most interest to a trader would most likely be</text>
+        <answer status="right">Real time quotes and news to facilitate the trading function </answer>
+        <answer status="wrong">Regulatory filings data to ensure compliant trading</answer>
+        <answer status="wrong">Investment research to first and foremost ensure the security in question is worth trading</answer>
+    </question>
+    <question>
+        <text>A hedge fund manager would likely have similar market data needs as a user engaged in</text>
+        <answer status="wrong">A broker/dealer function</answer>
+        <answer status="right">An asset management function </answer>
+        <answer status="wrong">An investment banking function</answer>
+        <answer status="wrong">A prop trading desk function</answer>
+    </question>
+    <question>
+        <text>Applications supporting market data that are customized to meet a specific need are commonly referred to as</text>
+        <answer status="right">Bespoke applications </answer>
+        <answer status="wrong">Custom shrink-wrap software applications</answer>
+        <answer status="wrong">One off designs or tailored applications</answer>
+    </question>
+    <question>
+        <text>A compliance manager would typically monitor risk exposure using what types of market data</text>
+        <answer status="wrong">Earnings estimates from street research reports to monitor company's earnings releases</answer>
+        <answer status="right">Entity level reference data, performance (returns and attribution) data </answer>
+        <answer status="wrong">Actuarial tables from insurance companies </answer>
+    </question>
+    <question>
+        <text>If an index provider charges licensing fees based on the term AUM, it refers to</text>
+        <answer status="right">Assets Under Management </answer>
+        <answer status="wrong">Assumed Uniform Markets</answer>
+        <answer status="wrong">Awkward, Unnecessary and Marginal pricing</answer>
+        <answer status="wrong">Assured Under Market price</answer>
+    </question>
+    <question>
+        <text>Pricing based on 'units of count' addresses the issue with non-display usage that</text>
+        <answer status="wrong">Consumer firms argue that they should not have to pay for data not used - when they can prove it has not been displayed</answer>
+        <answer status="wrong">Users should pay the same for data, whether used by individuals (non-display) or displayed publicly (e.g. displayed in, for example, Times Square for public and uncontrolled viewing)</answer>
+        <answer status="right">User based pricing models have been made obsolete by machine use (e.g. non-display) </answer>
+    </question>
+    <question>
+        <text>Per user based pricing models can be controversial, particularly because</text>
+        <answer status="right">Users are like "subscribers" and are typically subject to pay whether or not they use the data </answer>
+        <answer status="wrong">There are generally no mechanisms to transfer a service from one user to another in most market data agreements should a user leave the firm or change jobs</answer>
+        <answer status="wrong">They do not account for scale (e.g. there is no discounting as user numbers grow)</answer>
+    </question>
+    <question>
+        <text>The acronym MISU, as it applies to market data, stands for</text>
+        <answer status="wrong">Money-markets, Investments, Stocks &#38; Underwriting (e.g. the 4 pillars of the brokerage industry)</answer>
+        <answer status="right">Multiple Instance, Single User </answer>
+        <answer status="wrong">Management, Information, Standards &#38; Uniformity (e.g. the 4 pillars of market data management)</answer>
+    </question>
+    <question>
+        <text>A cancellation date typically marks the</text>
+        <answer status="right">End of a term of service whereby one or either party may terminate the service </answer>
+        <answer status="wrong">Period from which a trade occurs up to when the buyer or seller can change their mind, typically 3 days</answer>
+        <answer status="wrong">Date when notice must be provided prior to a renewal that one or either party communicates to the other that they are serving notice of termination</answer>
+    </question>
+    <question>
+        <text>Audits are typically seen as an enforcement method to ensure contractual compliance by a consumer firm because</text>
+        <answer status="wrong">Few if any licensing agreements would be enforceable if not for audits</answer>
+        <answer status="wrong">Suppliers have a regulatory duty to hire external auditors to review all use of market data</answer>
+        <answer status="right">Suppliers pass control of electronic data to their customers and lose potential control of the data's use and distribution </answer>
+    </question>
+    <question>
+        <text>If a consumer of a service wishes to terminate a market data service, they should be aware of which contractual provision</text>
+        <answer status="wrong">Whether or not they are allowed to cancel a service</answer>
+        <answer status="right">The notification date - a date typically 30, 60 or 90 days prior to a term end date whereby the other party must be informed with notification of the cancellation </answer>
+        <answer status="wrong">The fitness for purpose clause, which may prevent a termination</answer>
+    </question>
+    <question>
+        <text>Data Access Control System, or DACS is an example of</text>
+        <answer status="wrong">The standard middleware software to send and receive incoming and outgoing data from suppliers and exchanges</answer>
+        <answer status="right">A data distribution entitlement control system to enable access or prevent access to data and generate an audit trail of entitled users </answer>
+        <answer status="wrong">The name given to market data circuits used to manage and control datafeeds</answer>
+    </question>
+    <question>
+        <text>Market data inventory management systems provide a useful function in</text>
+        <answer status="wrong">Providing users with an inventory of all suppliers that provide any particular service to support users selecting the best (generally lowest cost) vendors</answer>
+        <answer status="wrong">Ensuring there is enough inventory of securities prices on hand at any given time to meet user demand</answer>
+        <answer status="right">Invoice reconciliation, user notification of pending renewals, overall budgetary management and information system </answer>
+    </question>
+    <question>
+        <text>Most exchange fee models require that if a user is entitled to see data, then</text>
+        <answer status="wrong">They may claim credits only for the period of time they were travelling, on holiday or otherwise not using the data</answer>
+        <answer status="right">They are fee liable for that particular month, regardless of whether or not they ever saw or made use of the data </answer>
+        <answer status="wrong">If they can provide a DAD (Honesty Statement) that they did not use data that month, the fees will be waived</answer>
+    </question>
+    <question>
+        <text>Peer groups in the market data industry have been useful in bringing together</text>
+        <answer status="wrong">People who have similar interests in selling data</answer>
+        <answer status="wrong">People who have similar interests increase exchange trading volumes</answer>
+        <answer status="right">Consumers, vendors and exchanges </answer>
+        <answer status="wrong">People who have similar interests in cost reduction</answer>
+    </question>
+    <question>
+        <text>A contracts manager is tasked with</text>
+        <answer status="right">Keeping track of contracts, managing documents and often negotiating terms and conditions </answer>
+        <answer status="wrong">The training and implementation of market data services</answer>
+        <answer status="wrong">Other functions and typically not associated with market data management, as most services do not require formal agreements</answer>
+    </question>
+    <question>
+        <text>Vendors may have an account manager and a new business sales manager for the purposes of</text>
+        <answer status="right">Managing existing relationships (account manager) and seeking new sales opportunities (new business sales manager) </answer>
+        <answer status="wrong">One is a senior role, the other much more junior - but often reversed in firms</answer>
+        <answer status="wrong">Account managers are known as the "hunters" to find business and new business sales managers are known as the "farmers" to nurture and grow existing business</answer>
+    </question>
+    <question>
+        <text>Which are all hardware components?</text>
+        <answer status="wrong">Relational Database, Central Processing Unit (CPU), Random Access Memory (RAM)</answer>
+        <answer status="right">Central Processing Unit (CPU), Random Access Memory (RAM), Network Interface Card (NIC)</answer>
+        <answer status="wrong">Random Access Memory (RAM), Excel spreadsheet, relational database</answer>
+        <answer status="wrong">Windows XP and Windows VISTA, Network Interface Card (NIC), Random Access Memory (RAM)</answer>
+    </question>
+    <question>
+        <text>What best describes what a bespoke application is</text>
+        <answer status="wrong">A popular speaking style characterised as "being in the moment when speaking" or "be-spoke" </answer>
+        <answer status="right">A customised software application</answer>
+        <answer status="wrong">A method of distribution from a central application to shared services, also termed hub and spoke</answer>
+        <answer status="wrong">The starting point of a message that has been routed over a wide area network</answer>
+    </question>
+    <question>
+        <text>An FPGA will most likely be present in</text>
+        <answer status="wrong">An end of day pricing application to manage the operational processing of securities pricing records</answer>
+        <answer status="right">Systems managing high volume data broadcasts</answer>
+        <answer status="wrong">An exchange processor but generally not used by consuming firms or vendors</answer>
+        <answer status="wrong">A methodology where programming takes place at the client site (in the field), provided there are proper controls or gates</answer>
+    </question>
+    <question>
+        <text>Database management application tools often include database query languages such as</text>
+        <answer status="wrong">VBZ</answer>
+        <answer status="right">SQL</answer>
+        <answer status="wrong">Microsoft excel</answer>
+        <answer status="wrong">Microsoft word</answer>
+    </question>
+    <question>
+        <text>What best describes what a "router" is?</text>
+        <answer status="wrong">A software programme for routing trades to exchanges and other electronic venues in the most effective manner</answer>
+        <answer status="wrong">A device for tracking routing errors and general anomalies in a networked computer application</answer>
+        <answer status="right">A networking device whose software and hardware are usually tailored to the tasks of routing and forwarding information</answer>
+        <answer status="wrong">The final destination of a message that has been routed over a wide area network</answer>
+    </question>
+    <question>
+        <text>Managers of high volume datafeeds are typically concerned with managing _________to ensure that the systems have enough capacity to manage peak volumes and spikes</text>
+        <answer status="wrong">Service providers</answer>
+        <answer status="wrong">Router speed</answer>
+        <answer status="right">Available bandwidth</answer>
+        <answer status="wrong">The transition from band-width modalities to the much larger scale of orchestra-width modalities</answer>
+    </question>
+    <question>
+        <text>What best describes what a "broadcast feed" is? </text>
+        <answer status="right">A streaming datafeed where all available data from the source is sent to the consuming application, whether used or not</answer>
+        <answer status="wrong">A feed characterised by the concept of requesting data and receiving back the requested data</answer>
+        <answer status="wrong">A selective feed of data that is broadly defined</answer>
+        <answer status="wrong">A customised datafeed or "broadcast" as opposed to a datafeed intended for any user (a bespoke datafeed)</answer>
+    </question>
+    <question>
+        <text>Co-location was developed in order to</text>
+        <answer status="wrong">Reduce costs of owning a datacentre and replace the datacentre with a shared site</answer>
+        <answer status="right">Reduce latency by removing as much physical distance as possible between an exchange and the application</answer>
+        <answer status="wrong">Reduce support costs by having as many technical resources as possible working in the same location</answer>
+    </question>
+    <question>
+        <text>What best describes what the FIX protocol is</text>
+        <answer status="wrong">The Fund and Index eXchange - a common way to trade large, passive portfolios</answer>
+        <answer status="right">The Financial Information eXchange - the primary messaging protocol used by trading desks</answer>
+        <answer status="wrong">An important consideration in any software development that includes a "break-fix" standard to recovering from errors</answer>
+        <answer status="wrong">An acronym used when traders believe that they have been front-run, originated from "the FIX is in" </answer>
+    </question>
+    <question>
+        <text>The concept of push pull generally refers to</text>
+        <answer status="wrong">How messaging packets travel down a circuit, particularly with pulsed data</answer>
+        <answer status="right">A daily research email sent to a user would be a "push" and if the user logged onto a site to request the research, they would "pull" the data</answer>
+        <answer status="wrong">The common and everyday practice of winning and losing on the trading desk</answer>
+    </question>
+    <question>
+        <text>The difference between streaming data and snapshot data is typically characterised as</text>
+        <answer status="right">Streaming is delivered by a broadcast feed, whereas snapshot data is often delivered by request-retrieval</answer>
+        <answer status="wrong">Streaming data is organised and delivered in the sequential manner of similar data and snapshot is typically randomly organised</answer>
+        <answer status="wrong">Streaming is always real time data and snapshot is another way to describe delayed data</answer>
+        <answer status="wrong">Streaming data is data transferred between data centres and snapshot data is data transferred between end user machines</answer>
+    </question>
+    <question>
+        <text>The data management protocol acronym XML stands for</text>
+        <answer status="wrong">eXtended Margin Limits</answer>
+        <answer status="wrong">eXtreme Management Limitation</answer>
+        <answer status="right">eXtensible Markup Language</answer>
+    </question>
+    <question>
+        <text>Examples of middleware data management systems include</text>
+        <answer status="wrong">Microsoft Excel, Microsoft Access, Microsoft Word</answer>
+        <answer status="right">RMDS, TIBCo, Activ Middleware, IBM Infodyne</answer>
+        <answer status="wrong">BT Global, Savvis, AT&#38;T</answer>
+    </question>
+    <question>
+        <text>The difference between thick and thin client applications is that</text>
+        <answer status="wrong">Thick client describes software of 1 million lines of programming code, anything smaller than 1 million lines of code is termed thin</answer>
+        <answer status="wrong">Thick client software is generally delivered on a magnetic tape or hard drive and thin is generally on a CD-ROM</answer>
+        <answer status="right">Thick client software is generally installed on a user's machine and thin client software runs remotely</answer>
+    </question>
+    <question>
+        <text>Investment professionals are often required by regulators to show they used due diligence in making investment decisions. A common challenge to managing due diligence is</text>
+        <answer status="wrong">The use of instant messaging, however regulators for the most part do not consider this a form of communication</answer>
+        <answer status="wrong">The requirement to store and preserve instant messages only at the discretion of a financial institution</answer>
+        <answer status="right">The regulatory requirement that all forms of communication are preserved, which therefore includes a requirement to preserve and retain instant messages</answer>
+    </question>
+    <question>
+        <text>A common desktop workstation or "terminal" is often</text>
+        <answer status="wrong">The application where algorithmic trading occurs - given its common use as the computer machine co-located at an exchange's order matching engine</answer>
+        <answer status="right">Used for viewing the market - quotes, news, charting, and enabling an individual to interact with other investment professionals, including the ability to make trading and investment decisions</answer>
+        <answer status="wrong">The primary tool of the back office operations, commonly known as the last step (or terminal stop) in the trade life cycle</answer>
+    </question>
+    <question>
+        <text>The concept of view and do means</text>
+        <answer status="wrong">Whatever you can see or view, you should be able to do - a common motivational training technique</answer>
+        <answer status="right">A trader can see the trade and execute on the spot over the transaction product or workstation</answer>
+        <answer status="wrong">You are using the new platform from Rosewater Traders called the "view and do" box</answer>
+    </question>
+    <question>
+        <text>A transaction product allows a trader</text>
+        <answer status="wrong">Record transactions for future playback and analysis</answer>
+        <answer status="right">To execute a trade over the transaction workstation or system</answer>
+        <answer status="wrong">Send email and instant messages to clients and brokers</answer>
+    </question>
+    <question>
+        <text>Developers of software that make use of market data should be aware of</text>
+        <answer status="wrong">The fact that, typically, any market data can be considered properly licensed if it is already in the client environment</answer>
+        <answer status="right">Licensing for the use and entitlement controls on market data may be required</answer>
+        <answer status="wrong">The regulatory requirement that all data must be counted and reported at the individual user level, regardless of the source</answer>
+    </question>
+    <question>
+        <text>An example of good software and systems development would include</text>
+        <answer status="wrong">Conducting development work in a semi-production environment for upwards of three months before releasing into production</answer>
+        <answer status="wrong">Conducting development work in a production environment to ensure the system is working properly</answer>
+        <answer status="right">Conducting development in a non-production environment to avoid any impact on systems in production</answer>
+    </question>
+    <question>
+        <text>When software applications are ready to be released (implemented) into a production environment, they should</text>
+        <answer status="wrong">Have obtained written signoff from both business leadership and data suppliers that the system is production ready</answer>
+        <answer status="wrong">Have been through rigorous QA (quality assurance) testing</answer>
+        <answer status="right">Be sure that the old system is fully removed first so that there can be no chance of software conflicts</answer>
+    </question>
+    <question>
+        <text>The concept of roll back is designed to accommodate</text>
+        <answer status="right">The contingency planning and capability to "roll back" to the previous version should the implementation fail</answer>
+        <answer status="wrong">How the prior version is extracted (e.g. rolled back) out one end of the system while the new system is being put into place</answer>
+        <answer status="wrong">The process whereby data is rolled back to an earlier point in time for investment research systems</answer>
+    </question>
+    <question>
+        <text>The concept of backward compatibility is designed to accommodate</text>
+        <answer status="wrong">That a new implementation can be backed up and archived properly for disaster recovery and source code preservation</answer>
+        <answer status="wrong">The ability to back-test strategies and ideas</answer>
+        <answer status="right">That previous versions of an application will continue to work (e.g. that software designed for Windows 8 will continue to work on Windows 7 and earlier versions such as Vista)</answer>
+    </question>
+    <question>
+        <text>The term SLA is an acronym for</text>
+        <answer status="wrong">Software Language Adaptation (e.g. the standards for software compatibility both forward and backward regardless of the developers language)</answer>
+        <answer status="right">Service Level Agreement (e.g. an agreement governing support standards)</answer>
+        <answer status="wrong">Securities Licensing Agreement (e.g. the contract required by all exchanges)</answer>
+    </question>
+    <question>
+        <text>One key function of capacity related support is that of</text>
+        <answer status="wrong">Assurance that there are enough employees hired in any given department to effectively manage the workload</answer>
+        <answer status="wrong">Standards testing of any technology employee to assure they have the mental capacity to do the job effectively</answer>
+        <answer status="right">Managing the amount of infrastructure processing and datafeed capacity available as "overhead" to accommodate volume spikes or extraordinary peaks in data volumes</answer>
+    </question>
+    <question>
+        <text>The greatest challenge to managing bandwith of exchange datafeeds has been</text>
+        <answer status="wrong">Keeping up with the growing number of new exchanges, primarily from other exchange divestitures</answer>
+        <answer status="right">Tick rates (e.g. quote volumes of bid-ask-trade data), growing at exponential rates, often doubling every 1-2 years</answer>
+        <answer status="wrong">Managing to regulatory policies that govern how much bandwidth can be allocated to an exchange feed without causing an unfair advantage over other participants</answer>
+    </question>
+    <question>
+        <text>What monumental event occurred that rocked algo trading on May 6, 2010</text>
+        <answer status="wrong">The announced retirement of Barney Frank (co-author of the Dodd Frank Act)</answer>
+        <answer status="right">The Flash Crash</answer>
+        <answer status="wrong">The day the European Union parliament announced the proposed ban on high frequency trading</answer>
+    </question>
+    <question>
+        <text>An OMS and EMS are typically used in what function</text>
+        <answer status="wrong">The back office operations area to manage orders and money transfers or employee money transfers</answer>
+        <answer status="wrong">In middleware software application development to create original money-management systems or extended money-management systems</answer>
+        <answer status="right">In trading, where the trading desk may use an order management system and/or an execution management system</answer>
+    </question>
+    <question>
+        <text>The increased growth of algorithmic trading spawned the subsequent growth of</text>
+        <answer status="wrong">Physical trading floors located at major financial centers and the re-emergence of individual trading personnel to manage trading decisions</answer>
+        <answer status="right">Low latency based services including co-location and proximity hosted services</answer>
+        <answer status="wrong">Offshore trading and the increased use of mobile devices to manage algo trading</answer>
+    </question>
+    <question>
+        <text>A risk management application may be used to</text>
+        <answer status="wrong">Select stocks and bonds based on sound fundamental analysis or technical charting applications</answer>
+        <answer status="right">Limit exposure to individual securities, industry groups, economic sectors as well as to support client positions and potential margin call management</answer>
+        <answer status="wrong">Manage the portfolio holdings of an insurance company seeking to reduce risky insurance claims</answer>
+    </question>
+    <question>
+        <text>A pricing and reference data operations group can expect data files delivered to it to be</text>
+        <answer status="wrong">Relatively large (number of records) for reference data and corporate actions and relatively small in size for pricing data</answer>
+        <answer status="right">Relatively smaller in size (number of records) for reference data and corporate actions and relatively large in size (virtually every security record) for a pricing file</answer>
+        <answer status="wrong">The closest to real time data delivery as possible to ensure timely record keeping and accounting processes update</answer>
+    </question>
+    <question>
+        <text>The common acronym EDM stands for</text>
+        <answer status="right">Enterprise data management</answer>
+        <answer status="wrong">European and developing markets</answer>
+        <answer status="wrong">Eastern daytime modulation (e.g. coordination of global clocks to NY time for programmatic synchronisation)</answer>
+    </question>
+    <question>
+        <text>A dividend record is typically more complex than other data elements because</text>
+        <answer status="wrong">It occurs infrequently, generally 4 times per year</answer>
+        <answer status="right">It includes sub-elements of data of the dividend amount, the record date, the ex-dividend data and the pay date</answer>
+        <answer status="wrong">Dividend data is extremely complicated, particularly when mapping from security to security</answer>
+    </question>
+    <question>
+        <text>Real time data versus End of Day data types can be best described as</text>
+        <answer status="right">Real time data tends to be streaming broadcasts whereas end of day files tend to be bulk data files</answer>
+        <answer status="wrong">Real time data is limited to trading prices whereas end of day data provides more detailed records such as NBBO bid and ask</answer>
+        <answer status="wrong">Real time data applies to all securities whereas End of Day applies to only securities that have an end of day price</answer>
+    </question>
+    <question>
+        <text>Vendors engaged in low latency services include</text>
+        <answer status="wrong">OFR, ECB and the European Union</answer>
+        <answer status="right">Activ Financial, Equinix, Solace Systems</answer>
+        <answer status="wrong">FactSet, CapIQ, Oracle Software</answer>
+    </question>
+    <question>
+        <text>Vendors engaged in EDM (enterprise data management) services include</text>
+        <answer status="right">Asset Control, Cadis, Goldensource</answer>
+        <answer status="wrong">Activ Financial, Equinix, Solace Systems</answer>
+        <answer status="wrong">FactSet, CapIQ, Oracle Software</answer>
+    </question>
+    <question>
+        <text>Telecommunications suppliers include</text>
+        <answer status="wrong">Asset Control, KX Systems, Citrix</answer>
+        <answer status="wrong">Interactive Data, Polar Lake, Cisco Systems</answer>
+        <answer status="right">BT Global, Savvis</answer>
+    </question>
+    <question>
+        <text>The formulation of "capital" is based on the primary issuance of which two types of financial instrument?</text>
+        <answer status="wrong">Foreign exchange and commodities</answer>
+        <answer status="wrong">Precious metals and futures</answer>
+        <answer status="wrong">Money markets and oil prices</answer>
+        <answer status="right">Equity shares and bonds </answer>
+    </question>
+    <question>
+        <text>Participants in the capital markets include</text>
+        <answer status="wrong">Real estate brokers, exchanges &#38; crossing networks</answer>
+        <answer status="right">Buy side, sell side, governments &#38; regulators </answer>
+        <answer status="wrong">Corporate CEOs and executives</answer>
+        <answer status="wrong">Bank tellers &#38; ATM machines</answer>
+    </question>
+    <question>
+        <text>The capital formulation process is primarily to provide what function?</text>
+        <answer status="wrong">Provide homeowners with loans such as mortgages and automobile loans</answer>
+        <answer status="wrong">Manage the overall money supply</answer>
+        <answer status="right">Match large scale funding needs with sources of surplus funds </answer>
+        <answer status="wrong">Trade securities as fast as possible</answer>
+    </question>
+    <question>
+        <text>What best describes the phrase "secondary market"</text>
+        <answer status="wrong">The second most important market in a country</answer>
+        <answer status="right">Where instruments that have already been issued are subsequently traded i.e. bought and sold many times over </answer>
+        <answer status="wrong">A market where lower value instruments are traded</answer>
+        <answer status="wrong">A non regulated market</answer>
+    </question>
+    <question>
+        <text>How is a "proprietary trader" different from an "agency broker"?</text>
+        <answer status="wrong">A proprietary trader trades more frequently than an agency broker e.g. High Frequency Trading</answer>
+        <answer status="wrong">An agency broker works on a wide range of asset classes whereas a proprietary trader only focuses on one asset class </answer>
+        <answer status="right">A proprietary trader acts as the principal in a deal whereas an agency broker only ever acts on behalf of a client </answer>
+        <answer status="wrong">A proprietary trader works exclusively in one time zone whereas an agency broker can work anytime </answer>
+    </question>
+    <question>
+        <text>Identify examples of buy side firms</text>
+        <answer status="wrong">Microsoft and Google</answer>
+        <answer status="right">Mutual fund companies </answer>
+        <answer status="wrong">Large Wall Street broker dealer firms</answer>
+        <answer status="wrong">Investment banks</answer>
+    </question>
+    <question>
+        <text>An individual investor, investing and trading for their own account</text>
+        <answer status="wrong">Is on the sell side when selling and on the buy side when buying</answer>
+        <answer status="wrong">Is prohibited from trading in the primary markets</answer>
+        <answer status="right">Is typically on "the buy side" since they are an investor </answer>
+        <answer status="wrong">Is also known as an institutional investor if they work for an investment firm </answer>
+    </question>
+    <question>
+        <text>An individual investor, investing and trading for their own account, would typically buy and sell in the secondary markets using a brokerage (sell side) firm</text>
+        <answer status="right">True </answer>
+        <answer status="wrong">False</answer>
+    </question>
+    <question>
+        <text>Market data management has emerged as a discipline (department) within Financial Institutions since the 1980's in part because</text>
+        <answer status="wrong">Historically market data was managed by the marketing department</answer>
+        <answer status="right">Prior to 1980 the real time delivery of market data did not happen on any appreciable scale and so did not need to be managed by a separate department </answer>
+        <answer status="wrong">Most financial markets did not exist 20 years ago and didn't need management of content </answer>
+    </question>
+    <question>
+        <text>The key differences between front, middle and back office tasks are best described as</text>
+        <answer status="wrong">The front office is the name given to corporate headquarters, the back office is generally the most geographically remote office and middle offices are typically bank branches around the country</answer>
+        <answer status="right">Front is customer facing, including investment management and trading, whereas the back office is primarily operations - and both are supported by systems, data and applications coined as the middle office </answer>
+        <answer status="wrong">The front office is generally on the ground floor, the back office at the loading dock and the middle office is all floors up to the penthouse floor</answer>
+        <answer status="wrong">Front office is for senior management, middle office is junior managers and the back office is generally for new hires and interns</answer>
+    </question>
+    <question>
+        <text>An example of a portfolio manager practicing active management would be one of</text>
+        <answer status="wrong">A fundamental belief that a healthy and active lifestyle is the foundation to doing ones job well</answer>
+        <answer status="right">A belief that by superior research, he or she can select stocks (as a stock picker) that produce superior returns over time </answer>
+        <answer status="wrong">Being actively engaged with political leaders and legislators to influence political and economic policy decisions that help the stock market grow</answer>
+        <answer status="wrong">Also known as index management, whereby the manager actively seeks to mirror the overall economy of a country, region or sector</answer>
+    </question>
+    <question>
+        <text>An example of the role performed by a trader would be to</text>
+        <answer status="wrong">Avoid dark pools due to the uncertainty of what may actually be contained in them</answer>
+        <answer status="right">Know and work the available trading venues to make securities buy and sell transactions at best bid or offer, with minimal market impact, obtaining "best execution" </answer>
+        <answer status="wrong">Leverage the trade intention by informing the street in advance of trading, hoping they will "front-run" the trades to obtain the absolute best execution</answer>
+        <answer status="wrong">Develop and nurture strong working relationships with other traders such that they always know they have someone else they can trade with</answer>
+    </question>
+    <question>
+        <text>An example of an operations manager's role would be one of</text>
+        <answer status="wrong">Maintaining a "clean room environment" to ensure traders have good data - evolved from how hospitals have clean operating rooms </answer>
+        <answer status="wrong">Managing analytic models, e.g. "stock picking decision making algorithms"</answer>
+        <answer status="right">Managing a nightly securities pricing and corporate actions file to perform account valuations for customer portfolios </answer>
+        <answer status="wrong">Primary responsibility for managing trading desk telephones, originally called "operators" to place traders' calls to the street</answer>
+    </question>
+    <question>
+        <text>A securities analyst who subscribes to the research discipline of "technical analysis" could be expected to</text>
+        <answer status="wrong">Use sophisticated tools and applications in an Excel worksheet as opposed to the more traditional "pen and paper" analysis, now commonly referred to as "technical or algorithmic analysis" </answer>
+        <answer status="wrong">Perform analysis primarily on the NASDAQ market or similar markets where there is a high concentration of "tech companies" </answer>
+        <answer status="wrong">Study company fundamentals, e.g. create complex and technical formulas to study balance sheets to provide buy/sell signals</answer>
+        <answer status="right">Observe and study time series data of closing market prices over time to identify patterns that inform the likely expected direction of a securities stock price based on what is termed "technical data" such as pricing data </answer>
+    </question>
+    <question>
+        <text>The lifecycle of the trade includes the following component(s) </text>
+        <answer status="wrong">Execution of a security on the primary listing market that it can be traded on; accounting of the securities' price by an independent, government approved regulator of pricing</answer>
+        <answer status="right">Pre-trade analysis that may include a number of decision making methodologies in selecting securities to buy or sell </answer>
+        <answer status="wrong">A filing with the SEC if a trade is to be executed in any US market in advance of the trade</answer>
+        <answer status="wrong">Accounting of the securities' price by an independent, government approved, regulator of pricing </answer>
+    </question>
+    <question>
+        <text>The following two elements are not part of the trade lifecycle: 1) best execution is obtained by the trader at a venue with the best available price and 2) settlement of the trade and exchange of ownership and payment is then processed by a clearing
+            firm</text>
+        <answer status="wrong">True</answer>
+        <answer status="right">False </answer>
+    </question>
+    <question>
+        <text>Index management is</text>
+        <answer status="wrong">A long standing tradition whereby stock and bond selections are relayed to the trading floor on index cards</answer>
+        <answer status="right">An investment style characterised as "owning the overall market" and generally owning the constituents of an index such as the S&#38;P500 or the MSCI EAFE index </answer>
+        <answer status="wrong">Also being termed "active management" in that the fund manager must actively work to outperform the index itself</answer>
+        <answer status="wrong">Selecting stocks by using algorithmic decision rules to assure the best stocks are selected to be members of the index fund</answer>
+    </question>
+    <question>
+        <text>An example of a post trade operation would be</text>
+        <answer status="wrong">Creating feedback on the stock and bond holdings and making investment recommendations to Securities Analysts as a result</answer>
+        <answer status="wrong">Managing analytic models, e.g. "stock picking decision making algorithms"</answer>
+        <answer status="right">Managing a nightly securities pricing and corporate actions file to perform account valuations for customer portfolios </answer>
+        <answer status="wrong">Primary responsibility for managing exchange crossing networks and executing trades on behalf of its clients</answer>
+    </question>
+    <question>
+        <text>A securities analyst who subscribes to the research discipline of "fundamental analysis" could be expected to</text>
+        <answer status="wrong">Focus his or her analysis on charts</answer>
+        <answer status="wrong">Perform analysis primarily on stocks that are seen as "fundamental" to an economy</answer>
+        <answer status="right">Study company balance sheets and income statement data to provide buy/sell valuations and ideas for stock selection </answer>
+        <answer status="wrong">Observe and study time series data of closing market prices over time to identify patterns that inform the likely expected direction of a securities stock price based on what is termed "technical data" such as pricing data</answer>
+    </question>
+    <question>
+        <text>What best describes the difference between "Level 1" and "Level 2" data from an exchange?</text>
+        <answer status="wrong">Level 1 data is the highest quality data from an exchange whereas Level 2 data has not been as closely checked and is therefore less reliable</answer>
+        <answer status="wrong">Level 1 data covers all data that comes from the exchange's domestic (local) market whereas level 2 data includes quotes or orders relating to international markets </answer>
+        <answer status="right">Level 1 data displays only the best bid and offer whereas Level 2 provides data on greater depth e.g. more orders or quotes in that market </answer>
+        <answer status="wrong">Level 2 data conforms to all local and international regulations whereas level 1 is delivered more quickly but cannot be guaranteed to comply with all necessary regulations </answer>
+    </question>
+    <question>
+        <text>Traditional exchanges have largely moved from an open outcry transaction protocol to what common form of trade execution</text>
+        <answer status="wrong">Silent auction trading</answer>
+        <answer status="wrong">Volume weighted trading</answer>
+        <answer status="wrong">Liquidity based trading</answer>
+        <answer status="right">Electronic trading </answer>
+    </question>
+    <question>
+        <text>Common functions provided by a traditional exchange include</text>
+        <answer status="wrong">The establishment and enforcement of securities regulations in their local market</answer>
+        <answer status="wrong">Providing data such as bid, ask, trade and volume generally 15 minutes after the data is received to protect the confidentiality of the quote data source</answer>
+        <answer status="right">Providing participants with data about securities available for buying and selling (bids &#38; offers) </answer>
+        <answer status="wrong">Calculate a stock's profit (or loss) at the market close and send the net proceeds to each company listed on the exchange in what is known as the market close - "transfer agent" procedure</answer>
+    </question>
+    <question>
+        <text>A common function of the traditional exchange is to set policies and practices to assure all participants are treated equally</text>
+        <answer status="right">True </answer>
+        <answer status="wrong">False</answer>
+    </question>
+    <question>
+        <text>Participants in a commodities exchange may be transacting the following types of goods</text>
+        <answer status="right">Wheat futures, pork bellies, frozen concentrated orange juice </answer>
+        <answer status="wrong">The odds on the favourite for the American Super-Bowl or the next World Cup - provided that all trading is for the future</answer>
+        <answer status="wrong">Stocks, bonds and sovereign debt</answer>
+    </question>
+    <question>
+        <text>Options are best described as</text>
+        <answer status="wrong">A market strategy where an individual offers to buy a stock if it reaches a target price</answer>
+        <answer status="wrong">Instruments traded as equities only</answer>
+        <answer status="right">The right to purchase a stock at a set price by a certain date in time, but not an obligation to do so </answer>
+        <answer status="wrong">Callable if a fixed income option, puttable if an equity option</answer>
+    </question>
+    <question>
+        <text>An interdealer broker acts as a(n)</text>
+        <answer status="wrong">Trader who trades securities between brokers who work in the same firm, e.g. inter-dealers</answer>
+        <answer status="right">Intermediary between two or more brokerage firms to cross fixed income trades where the anonymity of the broker can be preserved and broker's intent and interest are thereby not disclosed to the counterparty prior to the trade </answer>
+        <answer status="wrong">International brokerage firm and is legally permitted to trade as a dealer "internationally", hence the term inter-dealer</answer>
+        <answer status="wrong">Serves as a clearing house to settle money market and other trades between counterparties</answer>
+    </question>
+    <question>
+        <text>Common non-traditional exchanges or crossing networks are</text>
+        <answer status="wrong">Known as an NTE or ETN in some cases</answer>
+        <answer status="right">Known as an ATS in the US markets and MTF in the European Union </answer>
+        <answer status="wrong">Generally the last resort for trading if a security cannot price in a traditional market</answer>
+        <answer status="wrong">Known for their clearinghouse type function where they can provide an alternative stock to trade vs the one you may have selected. In Europe, they also provide multiple stocks which are recommended alternatives to the stock you selected</answer>
+    </question>
+    <question>
+        <text>The creation of ATS and MTF alternative execution venues has been driven primarily by</text>
+        <answer status="right">Action by regulators in the EU, US and other countries to make the market for trade execution venues more competitive </answer>
+        <answer status="wrong">The desire to trade on a venue that provides trade execution geographically closer to the trading firm</answer>
+        <answer status="wrong">Traders seeking to trade on privately held exchanges instead of publicly traded exchanges</answer>
+    </question>
+    <question>
+        <text>Fixed income instruments available on non-traditional exchanges have seen a growing trend to more open forms of</text>
+        <answer status="wrong">Exchange supplied credit ratings to help traders form better trading decisions</answer>
+        <answer status="wrong">Fixed income block trading (e.g. FIBTs)</answer>
+        <answer status="right">Price transparency that includes bid and offer prices made available on electronic platforms that in turn can act as an alternative to an exchange and transact a trade between two parties over their system </answer>
+        <answer status="wrong">Bond analytics and pricing methodologies</answer>
+    </question>
+    <question>
+        <text>Which of the below are all examples of a central bank?</text>
+        <answer status="wrong">Bank of America, Royal Bank of Scotland, Deutsche Bank</answer>
+        <answer status="right">Bank of England, Bank of Japan, Federal Reserve </answer>
+        <answer status="wrong">Commonwealth Bank of Australia, Central Bank of Ireland, Bank of Japan </answer>
+    </question>
+    <question>
+        <text>Which are/is examples of government regulators in the financial markets</text>
+        <answer status="wrong">The First District Court of New York</answer>
+        <answer status="right">The ESMA </answer>
+        <answer status="wrong">The European Parliament, FSA and ECB</answer>
+    </question>
+    <question>
+        <text>The FSA and ECB are examples of regulators but the European Parliament is not</text>
+        <answer status="right">True </answer>
+        <answer status="wrong">False</answer>
+    </question>
+    <question>
+        <text>The office of financial research is</text>
+        <answer status="right">A newly formed US regulator rooted in the Dodd Frank Act </answer>
+        <answer status="wrong">The name generally provided to the research department of an investment bank</answer>
+        <answer status="wrong">The former name of the FSA in London </answer>
+    </question>
+    <question>
+        <text>The role of governments and regulators in the financial markets include</text>
+        <answer status="wrong">Setting the policies for securities selection by investment research departments</answer>
+        <answer status="wrong">The primary exchange in a country for currency foreign exchange trading</answer>
+        <answer status="right">Acting as both participants and regulators in many instances - as both borrowers and rule making authorities </answer>
+        <answer status="wrong">Setting up so called circuit breakers to attempt to slow down the pace of trading to make global markets orderly</answer>
+    </question>
+    <question>
+        <text>Which of the following countries are not members of the European Union</text>
+        <answer status="wrong">Hungary, Latvia, Czech Republic</answer>
+        <answer status="right">Iceland, Montenegro, Kosovo </answer>
+        <answer status="wrong">Slovakia, Slovenia, Malta</answer>
+    </question>
+    <question>
+        <text>Which of the following currencies no longer exist (as of 2012)</text>
+        <answer status="wrong">Great British Pound, the Irish Punt, the Swedish Krona</answer>
+        <answer status="wrong">The Italian Lira, the Romanian Leu, the Danish Krone</answer>
+        <answer status="right">The Italian Lira, The German Deutschemark, the French Franc </answer>
+    </question>
+    <question>
+        <text>Equities include which classes of assets</text>
+        <answer status="right">Common and preferred stock </answer>
+        <answer status="wrong">Bonds and money market instruments</answer>
+        <answer status="wrong">Equitable instruments</answer>
+    </question>
+    <question>
+        <text>A bond is best described as</text>
+        <answer status="wrong">An ownership share in a company</answer>
+        <answer status="right">A loan instrument, typically long term in nature that pays interest (e.g. fixed income)</answer>
+        <answer status="wrong">An instrument backed by a commodity</answer>
+    </question>
+    <question>
+        <text>A government and agency bond is primarily</text>
+        <answer status="wrong">A bond that is directly regulated by a government itself or a government agency</answer>
+        <answer status="wrong">A unique type of instrument that can only be invested by residents of that particular country</answer>
+        <answer status="right">Simply the debt or borrowings of a government or quasi government agency </answer>
+    </question>
+    <question>
+        <text>A mortgage backed security is</text>
+        <answer status="wrong">A security that is priced using complex mathematical formulas based on average mortgage rates</answer>
+        <answer status="right">Constructed by combining and a pooling of underlying home mortgages into a bond like security </answer>
+        <answer status="wrong">A term given to any instrument that creates a mortgaging of the future</answer>
+    </question>
+    <question>
+        <text>For what type of financial instrument would you expect investors to be interested in "yield to maturity"? </text>
+        <answer status="wrong">Soft agricultural commodities</answer>
+        <answer status="wrong">Metal futures (only non ferrous)</answer>
+        <answer status="right">Fixed income securities e.g. bonds </answer>
+        <answer status="wrong">Equity shares</answer>
+    </question>
+    <question>
+        <text>An instrument termed a "derivative" is primarily characterised as being</text>
+        <answer status="wrong">A security that is priced using complex mathematical formulas such as derivatives and quadratic equations</answer>
+        <answer status="right">Constructed and based on another security and not necessarily a security in and of itself </answer>
+        <answer status="wrong">A term given to any instrument that created an impact on the financial crisis of September 2008, e.g. that the crisis was derived from trading these types of securities</answer>
+    </question>
+    <question>
+        <text>A money market instrument is</text>
+        <answer status="wrong">A term given to any bond or fixed income security that one must pay for on a cash basis (e.g. real money)</answer>
+        <answer status="right">Generally a short term loan that matures in under one year </answer>
+        <answer status="wrong">An instrument that a bank can provide its customers as an alternative to using the capital markets (bonds &#38; equities)</answer>
+    </question>
+    <question>
+        <text>A commodity is</text>
+        <answer status="wrong">A bond or equity that can be traded by virtually anyone, essentially "commoditised"</answer>
+        <answer status="wrong">The right but not the obligation to buy a security</answer>
+        <answer status="right">Is generally a physical good such as wheat or gold </answer>
+    </question>
+    <question>
+        <text>Options, CDOs, CFDs and swaps are all examples of</text>
+        <answer status="wrong">Securities that should be avoided as a result of the financial crisis of September 2008 </answer>
+        <answer status="wrong">Thinly traded, off balance sheet transactions that rarely trade once held</answer>
+        <answer status="right">A derivative instrument (e.g. it is derived from another instrument and is not the underlying instrument itself) </answer>
+    </question>
+    <question>
+        <text>The DFA (Dodd Frank Act) was created in response to which event</text>
+        <answer status="wrong">The Flash Crash</answer>
+        <answer status="wrong">The London Whale</answer>
+        <answer status="right">The financial crisis of September 2008 that saw the fall of Lehman Brothers and impacted global financial institutions with what was considered a "near meltdown" of the financial markets</answer>
+        <answer status="wrong">The LIBOR rate manipulation </answer>
+    </question>
+    <question>
+        <text>The LEI in part resulted from the regulations coming out of the</text>
+        <answer status="wrong">The SEC Swap Act</answer>
+        <answer status="right">Dodd Frank Act</answer>
+        <answer status="wrong">The European Commission recommendation to the BASEL standards</answer>
+        <answer status="wrong">The Bear Stearns collapse from the sub-prime lending crisis of 2008</answer>
+    </question>
+    <question>
+        <text>Industry issues around ownership of derived data tend to be a result of</text>
+        <answer status="wrong">The technicality that a user may create derived works by multiplying a data element "by one"</answer>
+        <answer status="right">The source provider not ceding ownership, even in some cases where the data cannot be reverse engineered</answer>
+        <answer status="wrong">The vendor seeking to gain ownership rights on data from derivatives as well as equity and fixed income data. Although the latter is seen as the vendor's data, data from derivatives is seen as coming from OTC markets and hence vendors cannot claim
+            ownersh</answer>
+    </question>
+    <question>
+        <text>Industry issues around commercial policies of market data licensing include</text>
+        <answer status="wrong">Global taxes on any data originating out of a country that is not one's homeland</answer>
+        <answer status="wrong">The costs associated with making swaps data fee liable</answer>
+        <answer status="right">Issues centered on the "unit of count" and "individual users into machine based users"</answer>
+        <answer status="wrong">Excessive price increases on market data fees as a result of the Dodd Frank Act</answer>
+    </question>
+    <question>
+        <text>The HFT (High Frequency Trading) controversy centres around what key trend</text>
+        <answer status="wrong">With the diminishing trend for co-location and Algo trading, all that is left is HFT to grow</answer>
+        <answer status="right">High frequency traders get into the markets ahead of other participants and therefore gain an unfair advantage</answer>
+        <answer status="wrong">High frequency traders are continuing to ignore market signals and buy and sell frequently as a result </answer>
+    </question>
+    <question>
+        <text>The concept of the LEI received the endorsement of the G20 countries, which increases the likelihood that the LEI</text>
+        <answer status="wrong">Will be successful when the G160 Global Ministers take the G20 recommendations and also provide authorisation</answer>
+        <answer status="wrong">Will have to go through additional regulatory hurdles if it is to be successfully adopted</answer>
+        <answer status="right">Will be adopted as a global identifier schema for all legally distinct entities engaging in financial transactions</answer>
+    </question>
+    <question>
+        <text>If regulatory trends are impacting financial markets are increasing at a more rapid pace, then</text>
+        <answer status="wrong">It is highly unlikely that stress to the financial markets will ever occur again in the future</answer>
+        <answer status="right">The idea that the EU may create a Financial Transaction Tax (FTT) or similar would not surprise market participants</answer>
+        <answer status="wrong">It can be expected to slow down shortly because most regulations have already been put in place</answer>
+    </question>
+    <question>
+        <text>The industry trend to identify all instruments with a common identifier schema is likely to</text>
+        <answer status="wrong">Set the trend in motion that limits the types of instruments that can be traded (e.g. a standard equity, a standard bond, etc.)</answer>
+        <answer status="right">Make it easier to transact securities globally with the adoption of common standards</answer>
+        <answer status="wrong">Spawn a new industry of common identifier schemas to compete with the global standards </answer>
+    </question>
+    <question>
+        <text>Exchanges such as ARCA, Brut and Bats are examples of</text>
+        <answer status="wrong">Small exchanges based outside major money centres to compete with global markets in obscure locations</answer>
+        <answer status="wrong">Primarily metals and commodities exchanges</answer>
+        <answer status="right">Alternative Trading Systems (ATSs) governed by the SEC as trading crossing networks</answer>
+        <answer status="wrong">The source for trading credit derivatives and interest rate swaps </answer>
+    </question>
+    <question>
+        <text>The CTA and UTP are collectively examples of</text>
+        <answer status="wrong">The primary regulators of exchanges where the CTA governs stocks and the UTP governs commodities</answer>
+        <answer status="right">An exchange quote distribution mechanism that provides linkages across all US markets trading a security to provide participants with easy access and transparency to discover the NBBO prices for a given security</answer>
+        <answer status="wrong">The two primary exchange vendors in the US markets</answer>
+    </question>
+    <question>
+        <text>A dark pool is an example of a trading venue or crossing network that</text>
+        <answer status="wrong">Is an illegal practice of trading and not reporting the trade information to the marketplace</answer>
+        <answer status="right">Provides anonymity to the trading participants identity to shelter the market from price swings</answer>
+        <answer status="wrong">Lacks the visibility of an effective exchange, in other words providing very poor execution</answer>
+    </question>
+    <question>
+        <text>The OFR or Office of Financial Research is</text>
+        <answer status="wrong">A US government organisation that regulates regulators - the creators of what has been termed the "Dodd Frank Act"</answer>
+        <answer status="wrong">A long standing division of the SEC that governs investment research activity in the US markets</answer>
+        <answer status="right">A new department in the US Government created in response to the financial meltdown of 2008, specifically created out of the Dodd Frank Act</answer>
+    </question>
+    <question>
+        <text>The acronym MiFid stands for</text>
+        <answer status="wrong">Mid-Financed Debentures</answer>
+        <answer status="wrong">Minerals, Financials, Debt Instruments</answer>
+        <answer status="right">Markets in Financial Instruments Directive</answer>
+        <answer status="wrong">Money is Found in Derivatives</answer>
+    </question>
+    <question>
+        <text>The European markets are looking into the feasibility of implementing a US style version of the</text>
+        <answer status="wrong">ECB</answer>
+        <answer status="wrong">OFR</answer>
+        <answer status="right">CTA</answer>
+    </question>
+    <question>
+        <text>The financial crisis of September 2008 is still reverberating in the European markets as noted with the stress on countries such as</text>
+        <answer status="wrong">Germany and France</answer>
+        <answer status="right">Greece and Cyprus</answer>
+        <answer status="wrong">Iceland and Sweden</answer>
+        <answer status="wrong">Great Britain and Switzerland</answer>
+    </question>
+    <question>
+        <text>A multi-lateral trading facility is the European equivalent of</text>
+        <answer status="wrong">A commodities exchange in the US markets</answer>
+        <answer status="right">An ATS (Alternative Trading System) in the US markets</answer>
+        <answer status="wrong">A multi-state trading facility in the US markets</answer>
+        <answer status="wrong">A pac-rim trading facility in the Asian markets</answer>
+    </question>
+    <question>
+        <text>Governments participating in the financial markets</text>
+        <answer status="wrong">Must always be the first to be offered a financial instrument to buy or sell</answer>
+        <answer status="wrong">Can take over any financial institution if it becomes larger than the central bank, then that institution becomes the central bank</answer>
+        <answer status="right">Act as both a borrower (or buyer) of debt as well as act as the regulator of the markets</answer>
+    </question>
+    <question>
+        <text>The primary function of a central bank is to</text>
+        <answer status="wrong">Be the official bank in the country's largest or most centrally located city</answer>
+        <answer status="right">Control the monetary supply and set policy to manage the national economy</answer>
+        <answer status="wrong">Manage inter-country banking transactions </answer>
+    </question>
+    <question>
+        <text>The regulations known as BASEL I, II and III are designed to regulate which industry</text>
+        <answer status="wrong">Any financial institution with offices outside its own country</answer>
+        <answer status="wrong">The insurance industry</answer>
+        <answer status="right">The banking industry</answer>
+        <answer status="wrong">Spice and vegetable growers (commonly known as the Basil accord in the US, Basel in Europe)</answer>
+    </question>
+    <question>
+        <text>A debt instrument issued by a government is typically termed</text>
+        <answer status="wrong">Government warrants</answer>
+        <answer status="right">Sovereign debt</answer>
+        <answer status="wrong">Ranking debt</answer>
+        <answer status="wrong">Obligor debt</answer>
+    </question>
+    <question>
+        <text>The concept of SRI or socially responsible investment may include examples of</text>
+        <answer status="wrong">Non-profit public service companies</answer>
+        <answer status="right">Green or sustainable industry funds</answer>
+        <answer status="wrong">Companies that agree to limit profitability</answer>
+    </question>
+    <question>
+        <text>Companies most severely impacted by the financial crisis of September 2008 included</text>
+        <answer status="wrong">Lehman, Goldman and Prudential</answer>
+        <answer status="right">Lehman, Merrill and AIG</answer>
+        <answer status="wrong">Bank of America, Citi and Credit Suisse</answer>
+    </question>
+    <question>
+        <text>The term DMA stands for</text>
+        <answer status="wrong">Digitally Managing Automation</answer>
+        <answer status="right">Direct Market Access</answer>
+        <answer status="wrong">Done by Machine Algorithms </answer>
+    </question>
+    <question>
+        <text>The greatest challenge to managing the intellectual property (IP) rights of information producers is</text>
+        <answer status="wrong">Most contracts for IP are so complicated that most users cannot understand the provisions and simply ignore them</answer>
+        <answer status="wrong">That it is difficult to rationalise the high cost of data when it is so easy to duplicate</answer>
+        <answer status="right">That data, by virtue of delivery in a digital format, can be easily copied and distributed without the control of the owner by data piracy</answer>
+    </question>
+</questions>
