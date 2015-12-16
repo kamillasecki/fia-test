@@ -43,20 +43,19 @@
                   if (question.st[x] === "right") {
                       question.correct = x;
                   }
-                  console.log("st[" + x + "]: " + question.st[x]);
-                  x = x + 1;
+                  x++;
               });
 
 
 
 
               list = '<div class="row" id="qBox"><p class="col-sm-12">Question ' + i + ': ' + question.text + 
-                        '</p><form class="form" id="question' + i + '" action="">';
+                        '</p><form class="form" id="question' + i + '" action=""><table>';
               for (var z = 0; z < question.answer.length; z++) {
 
-                  list = list + '<div class="col-sm-12" id="answer' + z + 
-                                '"><input type="radio" class="col-sm-1" name="answer" value="' + z + '" id="radio' + i + 
-                                z + '"><label class="col-sm-11" for="radio' + i + z + '">' + question.answer[z] + '</label></div>';
+                  list = list + '<tr><td class="cratio col-sm-1" id="answer' + z + 
+                                '"><input type="radio" class="canswer" name="answer" value="' + z + '" id="radio' + i + 
+                                z + '"></td><td class="col-sm-11"><label   for="radio' + i + z + '">' + question.answer[z] + '</label></td>';
               }
               list = list + '</form></div>';
               newElement.innerHTML = list;
@@ -78,10 +77,6 @@ function display_ct() {
  
 }
 
-function stop() {
-    clearTimeout(mytime);
-}
-            
           function updateCorrect() {
               correct++;
               document.getElementById("acorrect").innerHTML = correct;

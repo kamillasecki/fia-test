@@ -1,129 +1,90 @@
 /* Styles go here */
+
 body {
-  font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
-Header, footer {
-  background-color: #333;
-  text-align: center;
+
+Header,
+footer {
+	background-color: #333;
+	text-align: center;
 }
 
 footer {
-  color: #ddd;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  text-align: center;
-}
-table,
-th,
-td {
-  border: 0px solid black;
-  border-collapse: collapse;
-  text-align: left;
-  padding-left: 15px;
-  padding-top: 2px;
-  padding-bottom: 2px;
+	color: #ddd;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
 }
 
-aside {
-  text-align: center;
-      position: fixed;
-    top: 1em;
-    right: 1em;
-    z-index: 10
-}
-
-.manager {
-  background-color: white;
-}
-
-.fund {
-  background-color: white;
-}
-
-.archive {
-  background-color: white;
-}
-
-  a:link {
-    color: black;
-  }
-.menu-list {
-    padding-top: 20px;
-}
-
-.rss {
-  padding-top: 10px;
-  padding-bottom: 10px;
+a:link {
+	color: black;
 }
 
 #qBox {
-    padding-top: 20px;
-  padding-bottom: 21px;
-  overflow:hidden 
+	padding-top: 20px;
+	padding-bottom: 21px;
+	overflow: hidden
 }
 
-			.right {
-			color: #444;
-			background: transparent url(images/quiz-tick.png) no-repeat 0px 0px;
-			}
+.right {
+	color: #444;
+	background: transparent url(images/quiz-tick.png) no-repeat 0px center;
+}
 
-			.wrong {
-			color: #444;
-			background: transparent url(images/quiz-cross.png) no-repeat 0px 0px;
-			}
-			.qBox.p {
-		padding: 5px 0;
-		font-size: 16px;
-		line-height: 16px;
-		font-weight: normal;
-		text-align: left;
-		}
-		.form label {
-		margin: 5px 0;
-		padding: 5px 5px 5px 40px;
-		font-size: 16px;
-		line-height: 16px;
-		font-weight: normal;
-		text-align: left;
-		border: 2px solid transparent;
-		float:left;
-		clear:none;
-		}
-		
-		.form div label { float:left; clear:none; display:block; padding: 2px 1em 0 0; }
-	
-		
-#floated {
-  position: fixed;
-left: 0.723em;
-bottom: 0px;
-border-width: 0.182em 0.182em 0px;
-border-style: solid;
-border-radius: 0em 2em 0em 0px;
-width: 20.091em;
-		height: 70%;
-color: #333;
-font-size: 11px;
+.wrong {
+	color: #444;
+	background: transparent url(images/quiz-cross.png) no-repeat 0px center;
+}
+
+#qBox p {
+	padding: 5px 0;
+	font-size: 19px;
+	line-height: 21px;
+	font-weight: normal;
+	text-align: left;
+}
+
+.form label {
+	margin: 5px 0;
+	padding: 5px 5px 5px 5px;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: normal;
+	text-align: left;
+	border: 2px solid transparent;
+	float: left;
+	clear: none;
 }
 
 .head {
-  		margin: 5px 0;
-		padding: 5px 5px 5px 5px;
-		font-size: 16px;
-		line-height: 16px;
-		font-weight: normal;
-		text-align: left;
+	margin: 5px 0;
+	padding: 5px 5px 5px 5px;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: normal;
+	text-align: left;
 }
 
-#srate, #acorrect, #awrong {
-    		margin: 5px 0;
-		padding: 5px 25px 23px 5px;
-		font-size: 16px;
-		line-height: 16px;
-		font-weight: normal;
-		text-align: right;
+#srate,
+#acorrect,
+#awrong {
+	margin: 5px 0;
+	padding: 5px 25px 23px 5px;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: normal;
+	text-align: right;
 }
 
-#js-rotating {
-  text-align: left;
+.cratio {
+	margin: 5px 0;
+	padding: 5px 5px 5px 40px;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: normal;
+	text-align: left;
+	border: 2px solid transparent;
+	float: left;
+	clear: none;
 }
